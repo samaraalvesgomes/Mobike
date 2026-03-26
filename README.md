@@ -9,7 +9,12 @@ O Mobike analisa condições meteorológicas em tempo real para:
 - **Prever segurança** para ciclistas baseado em dados climáticos
 - **Comparar modelos** de ML para melhor acurácia
 - **Testar cenários** com dados sintéticos
-
+### 🤝Colaboradores
+- [Erick Alexsandro](https://github.com/erick-alexsandro)
+- [Eduardo Vitor](https://github.com/EduardoVitor020)
+- [Hadriel Gomes](https://github.com/gomeshadriel)
+- [Samara Alves](https://github.com/samaraalvesgomes)
+- 
 ## 🏗️ Arquitetura do Projeto
 
 ```
